@@ -1,0 +1,17 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/controlscene4.cs">
+    <Files>
+      <File FileName="Assets/controlscene.cs" Line="1" Column="1" />
+      <File FileName="Assets/LeapMotion/Scripts/Utils/GrabbableObject.cs" Line="62" Column="30" />
+      <File FileName="Assets/LeapMotion/Scripts/Utils/GrabbingHand.cs" Line="1" Column="1" />
+      <File FileName="Assets/controlscene2.cs" Line="1" Column="1" />
+      <File FileName="Assets/controlscene3.cs" Line="1" Column="1" />
+      <File FileName="Assets/controlscene4.cs" Line="23" Column="31" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

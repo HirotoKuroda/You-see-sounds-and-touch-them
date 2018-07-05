@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/VJKit/SampleScenes/fuZe/fuZe01_vj_sample_audioJack.unity
+    guid: ffda4265d0cec4d3a8c795bbb9a62c5a
+  - enabled: 0
+    path: 
+    guid: e6d05199e2ef14a6bbe27b755cfd7894
+  - enabled: 1
+    path: Assets/project forc D4.unity
+    guid: 185c65ec9086b46f98ebcac0b7ae1405
+  - enabled: 1
+    path: Assets/0.unity
+    guid: 1b8b86e1fa88f46aa98de71a44a4a3f0
+  - enabled: 1
+    path: Assets/1.unity
+    guid: bed250ea18f7a4f978a7c76905561c2d
+  - enabled: 1
+    path: Assets/2.unity
+    guid: 89c09dd6e7e474528a840a84c94dd140
+  - enabled: 1
+    path: Assets/3.unity
+    guid: be55f88a7c4d84ce092509eb22c230d8
+  - enabled: 1
+    path: Assets/LeapMotion/Scenes/ImageHands.unity
+    guid: 11f9e06e8cf470a45b885706eb99ee5f
